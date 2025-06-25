@@ -87,6 +87,7 @@ Aquesta xarxa bayesiana ens permet incorporar la **similitud de poblacions** dir
 │   └── inferencia.py
 ├── p1.py                  # Algoritme principal (Local Beam Search)
 ├── informe.pdf            # Informe complet de la pràctica
+├── p1_enunciat.pdf        # Enunciat de la pràctica
 └── README.md              # Aquesta guia
 ````
 
